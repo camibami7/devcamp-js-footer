@@ -21,5 +21,6 @@
   "homepage": "https://github.com/camibami7/devcamp-js-footer#readme",
   "dependencies": {
     "moment": "^2.23.0"
-  }
+  },
+  "devDependencies": {}
 }
